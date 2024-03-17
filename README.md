@@ -1,5 +1,5 @@
 # HackRF-Replay-Attack
-replay attack using HackRF with GUI. Attack start with record the signal saved as complex file. To start Attack by transmit the complex file result from recording process with HackRF.
+replay attack using HackRF with GUI. Attack start with record the signal saved as complex file then transmit the complex file result from recording process with HackRF.
 
 ![image](https://github.com/YD1RUH/HackRF-Replay-Attack/blob/main/screen.jpg)
 
